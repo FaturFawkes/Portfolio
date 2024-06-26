@@ -14,41 +14,31 @@ const introdata = {
     fourth: "I build your App",
   },
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    "I am a Software Engineer with extensive experience in designing and developing innovative and efficient systems and applications. With a strong background in various programming languages and the latest technologies.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
   title: "abit about my self",
   aboutme:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "As an experienced Backend Developer, I excel in creating efficient and scalable backend systems. I have strong programming and problem-solving skills, allowing me to handle complex technical challenges. I quickly adapt to new environments and technologies, always eager to learn and apply the latest solutions.I can also deliver and deploy applications that benefit users. Focused on quality and performance, I am committed to exceeding expectations in my work.",
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
-  },
+    jobtitle: "Backend Developer",
+    where: "Salt Indonesia",
+    date: "2023",
+  }
 ];
 
 const skills = [
   {
-    name: "Python",
+    name: "Golang",
     value: 90,
   },
   {
-    name: "Djano",
-    value: 85,
+    name: "Laravel",
+    value: 80,
   },
   {
     name: "Javascript",
@@ -59,48 +49,35 @@ const skills = [
     value: 60,
   },
   {
-    name: "Jquery",
+    name: "Mysql",
     value: 85,
+  },
+  {
+    name: "PostgreSQL",
+    value: 80,
   },
 ];
 
 const services = [
   {
-    title: "UI & UX Design",
+    title: "Website Application",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "Specialize in creating dynamic, responsive, and user-friendly websites tailored to meet your business needs. From design to deployment, our expert team ensures your website stands out and provides an exceptional user experience.",
   },
   {
     title: "Mobile Apps",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-  },
-  {
-    title: "Wordpress Design",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "App development services focus on building high-performance mobile and web applications. We deliver intuitive and feature-rich apps that cater to your specific requirements, ensuring seamless performance across all platforms.",
   },
 ];
 
 const dataportfolio = [
   {
-    img: "https://www.megasyariah.co.id/bms-new/edukasi-tips/wakaf_adalah.webp",
-    title: "Project Wakaf",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsF1mf7r5xx11ObdkhgrO09iACwGWoZ4ZQQ&s",
+    title: "Wakaf",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "/project",
-  },
-  {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "This application will help Alhambra Foundation enhance transparency, efficiency, and accessibility in waqf management.",
+    link: "https://wakafalhambra.com",
   },
 ];
 
@@ -108,7 +85,7 @@ const contactConfig = {
   YOUR_EMAIL: "nur.faturohman28@gmail.com",
   YOUR_FONE: "+62 821-2631-8417",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "I'm always eager to connect and discuss potential collaborations, new opportunities, or anything related to technology and software development. Please feel free to reach out to me via email. I look forward to hearing from you!",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
