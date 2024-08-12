@@ -2,15 +2,15 @@ const logotext = "FATUR";
 const meta = {
   title: "Nur Fatchurohman",
   description:
-    "I’m Nur Fatchurohman data scientist _ Full stack devloper,currently working in Berlin",
+    "I’m Nur Fatchurohman Software Developer,currently working in Jakarta",
 };
 
 const introdata = {
   title: "I’m Nur Fatchurohman",
   animated: {
-    first: "Software Engineer",
+    first: "Software Developer",
     second: "Backend Developer",
-    third: "System Designer",
+    third: "Golang Developer",
     fourth: "I build your App",
   },
   description:
@@ -38,11 +38,11 @@ const skills = [
   },
   {
     name: "Laravel",
-    value: 80,
+    value: 60,
   },
   {
     name: "Javascript",
-    value: 80,
+    value: 60,
   },
   {
     name: "React",
